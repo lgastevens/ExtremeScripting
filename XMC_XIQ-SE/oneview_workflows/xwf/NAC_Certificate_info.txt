@@ -1,0 +1,27 @@
+11:35:23 INFO    NAC Engines Certificate details:
+  NAC-Campus-1 [10.8.255.6]
+    internal:
+      CN: nac-campus-1.reading.ctc.local
+      valid to: Sep  2 23:00:00 2034 GMT
+      expire in: 3020 days
+    portal:
+      CN: nac-campus-1.reading.ctc.local
+      valid to: Sep  2 23:00:00 2034 GMT
+      expire in: 3020 days
+    radius:
+      CN: nac-campus-1.reading.ctc.local
+      valid to: Aug 22 23:59:59 2029 GMT
+      expire in: 1183 days
+  NAC-Campus-2 [10.8.255.7]
+    internal:
+      CN: nac-campus-2.reading.ctc.local
+      valid to: Aug 22 23:00:00 2034 GMT
+      expire in: 3009 days
+    portal:
+      CN: nac-campus-2.reading.ctc.local
+      valid to: Aug 22 23:00:00 2034 GMT
+      expire in: 3009 days
+    radius:
+      CN: nac-campus-1.reading.ctc.local
+      valid to: Aug 22 23:59:59 2029 GMT
+      expire in: 1183 days
